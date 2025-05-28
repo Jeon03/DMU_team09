@@ -1,5 +1,5 @@
 # ShareStory
-
+![ShareStory 로고](./images/logo.png)
 ## 프로젝트 개요
 
 ## 프로젝트 소개
