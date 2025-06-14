@@ -114,7 +114,7 @@
 
 
 ## 프로젝트 계획서 ppt
-[발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
+[📘 프로젝트 계획서 PPT](./%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C%20PPT.pptx)
 
 ## 프로젝트 최종 발표 ppt
 ![image](https://github.com/user-attachments/assets/72f1eb4b-5818-486d-966f-31620c2a77d1)
