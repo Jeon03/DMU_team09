@@ -120,7 +120,8 @@
 ![image](https://github.com/user-attachments/assets/72f1eb4b-5818-486d-966f-31620c2a77d1)
 
 
-- [📊 최종 발표 PPT ](https://github.com/Jeon03/ShareStory/raw/main/%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT.pptx)
+[📊 최종 발표 PPT ](https://github.com/Jeon03/DMU_team09/raw/ccee8d46c28a172dd119bf369c41823fe1c74af4/%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT.pptx)
+
 
 ## 시연 영상
 <img width="1506" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/414daa6d-fcb1-49ed-b44f-d8349fcdc317">
