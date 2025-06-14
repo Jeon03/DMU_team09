@@ -39,9 +39,6 @@
 ### erd
 ![slide_15](https://github.com/user-attachments/assets/5a3ae012-9aeb-44b6-a22c-65acc93edcf7)
 
-
-## 🚀 주요 기능 (Core Features)
-
 ## 🚀 주요 기능 (Core Features)
 
 ### 🛍️ 중고거래 기능
