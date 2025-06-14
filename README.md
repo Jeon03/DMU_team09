@@ -20,7 +20,7 @@
 | **전여욱** | **김준성** | **김신성** | **주현서** |
 |:-------------------:|:------------------:|:----------------------:|:-------------------:|
 | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@JeonYeoUk](https://github.com/Jeon03) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@김준성](https://github.com/Kimjunesung96) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@김신성](https://github.com/qederd) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@주현서](https://github.com/) |
-|백엔드, 프론트엔드|백엔드|프론트엔드|백엔드|
+|팀장 백엔드, 프론트엔드|백엔드|프론트엔드|백엔드|
 
 ## 개발 환경
 - **Front-end**:  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="25"/>
