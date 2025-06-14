@@ -114,13 +114,13 @@
 
 
 ## 프로젝트 계획서 ppt
-[📘 프로젝트 계획서 PPT](./%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C%20PPT.pptx)
+- [📄 프로젝트 계획서 PPT ](https://github.com/Jeon03/ShareStory/raw/main/%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B3%84%ED%9A%8D%EC%84%9C%20PPT.pptx)
 
 ## 프로젝트 최종 발표 ppt
 ![image](https://github.com/user-attachments/assets/72f1eb4b-5818-486d-966f-31620c2a77d1)
 
 
-[최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_발표.pptx)
+- [📊 최종 발표 PPT ](https://github.com/Jeon03/ShareStory/raw/main/%EC%89%90%EC%96%B4%ED%86%A0%EB%A6%AC(ShareStory)%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C%20PPT.pptx)
 
 ## 시연 영상
 <img width="1506" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/414daa6d-fcb1-49ed-b44f-d8349fcdc317">
