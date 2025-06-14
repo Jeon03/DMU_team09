@@ -19,7 +19,8 @@
 ## 🙍‍♂️ 팀 멤버 소개
 | **전여욱 (백엔드, 프론트엔드)** | **김준성 (백엔드)** | **김신성 (프론트엔드)** | **주현서 (백엔드)** |
 |:-----------------------------:|:------------------:|:----------------------:|:-------------------:|
-| [<img src="https://github.com/rx5460/pophub_front/assets/42200731/e99003c5-26d5-4d09-b548-aeab53c105a5" height="150" width="150"/> <br/> @JeonYeoUk](https://github.com/Jeon03) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height="150" width="150"/> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height="150" width="150"/> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height="150" width="150"/> <br/> @rx5460](https://github.com/rx5460) |
+| [![image](https://github.com/user-attachments/assets/a11a4637-b29d-4682-a545-b274433fcd15) <br/> @JeonYeoUk](https://github.com/Jeon03) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height="150" width="150"/> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height="150" width="150"/> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height="150" width="150"/> <br/> @rx5460](https://github.com/rx5460) |
+
 
 
 ## 개발 환경
