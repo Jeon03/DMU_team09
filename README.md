@@ -112,8 +112,17 @@
 ## 사용자별 기능
 ![image](https://github.com/user-attachments/assets/c427f484-474d-4e82-812a-25e3cbaee58c)
 
+
 ## 프로젝트 계획서 ppt
+[발표 계획서 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_프로젝트계획서.pptx)
 
 ## 프로젝트 최종 발표 ppt
+![image](https://github.com/user-attachments/assets/72f1eb4b-5818-486d-966f-31620c2a77d1)
+
+
+[최종 발표 ppt](https://raw.githubusercontent.com/rx5460/pophub_full/main/도파밍_팝허브_발표.pptx)
 
 ## 시연 영상
+<img width="1506" alt="image" src="https://github.com/rx5460/pophub_full/assets/42200731/414daa6d-fcb1-49ed-b44f-d8349fcdc317">
+
+[YouTube 영상](https://youtu.be/EqJkZOaBZCw)
