@@ -20,6 +20,17 @@
 | **전여욱 (백엔드, 프론트엔드)** | **김준성 (백엔드)** | **김신성 (프론트엔드)** | **주현서 (백엔드)** |
 |:-----------------------------:|:------------------:|:----------------------:|:-------------------:|
 | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/e99003c5-26d5-4d09-b548-aeab53c105a5" height="150" width="150"/> <br/> @JeonYeoUk](https://github.com/Jeon03) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height="150" width="150"/> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height="150" width="150"/> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height="150" width="150"/> <br/> @rx5460](https://github.com/rx5460) |
+## 개발 환경
+
+- **Front-end**:  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+
+- **Back-end**:  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+
+- **Database**: <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+- **배포**: <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+
+- **협업 툴**: <img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black"/> <img src="https://img.shields.io/badge/github-1c8139?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/discord-5562ea?style=flat&logo=discord&logoColor=white"/>
+- **디자인**: <img src="https://img.shields.io/badge/figma-430098?style=flat&logo=figma&logoColor=white"/>
 
 ## 개발 환경
 ![slide_1](https://github.com/user-attachments/assets/841dbddd-03c7-4d09-8f1f-b7d830721224)
