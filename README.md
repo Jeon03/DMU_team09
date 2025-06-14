@@ -17,11 +17,10 @@
 ![slide_6](https://github.com/user-attachments/assets/58a74599-590a-4136-b860-dbdd8dc648cb)
 
 ## 🙍‍♂️ 팀 멤버 소개
-| **전여욱 (백엔드, 프론트엔드)** | **김준성 (백엔드)** | **김신성 (프론트엔드)** | **주현서 (백엔드)** |
+| **전여욱** | **김준성** | **김신성** | **주현서 ** |
 |:-------------------:|:------------------:|:----------------------:|:-------------------:|
 | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@JeonYeoUk](https://github.com/Jeon03) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@S-ol9](https://github.com/S-ol9) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@Promark1225](https://github.com/Promark1225) | <img src="https://github.com/user-attachments/assets/71fcfb03-2be4-4b31-9e97-a3ad7c2fb9da" width="150"/> <br/> [@rx5460](https://github.com/rx5460) |
-
-
+|:**(백엔드, 프론트엔드)**:|:**(백엔드)**:|:**(프론트엔드)**:|:**(백엔드)**:|
 
 ## 개발 환경
 - **Front-end**:  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="25"/>
