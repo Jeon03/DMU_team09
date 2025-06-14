@@ -11,7 +11,7 @@ React 기반 프론트엔드와 Spring Boot 기반 백엔드를 중심으로, El
 | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/e99003c5-26d5-4d09-b548-aeab53c105a5" height="150" width="150"/> <br/> @JeonYeoUk](https://github.com/Jeon03) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/995e786f-9219-4b11-9944-f1e6ff1df49d" height="150" width="150"/> <br/> @S-ol9](https://github.com/S-ol9) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/2f9195ee-e54c-4261-862a-d138543a7710" height="150" width="150"/> <br/> @Promark1225](https://github.com/Promark1225) | [<img src="https://github.com/rx5460/pophub_front/assets/42200731/40ace482-4b11-484c-b133-18fdc9767225" height="150" width="150"/> <br/> @rx5460](https://github.com/rx5460) |
 
 ## 개발 환경
-
+![slide_1](https://github.com/user-attachments/assets/841dbddd-03c7-4d09-8f1f-b7d830721224)
 ## 프로젝트 
 ### 시스템 구성도
 ### erd
