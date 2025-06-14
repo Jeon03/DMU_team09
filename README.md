@@ -43,6 +43,7 @@
 ## 주요 기능
 
 ## 사용자별 기능
+![image](https://github.com/user-attachments/assets/c427f484-474d-4e82-812a-25e3cbaee58c)
 
 ## 프로젝트 계획서 ppt
 
